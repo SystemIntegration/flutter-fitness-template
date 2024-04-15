@@ -18,7 +18,7 @@ Please refer the installation steps with guide. https://docs.flutter.dev/get-sta
 
 #### Clone: 
 
-Clone the project using below link: git@github.com:SystemIntegration/flutter-fitness-template.git
+Clone the project using this command: git clone git@github.com:SystemIntegration/flutter-fitness-template.git
 
 #### Run the project:
 
